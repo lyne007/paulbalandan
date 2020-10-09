@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A certified public account by profession. Software development is my passion.</h3>
+<h3 align="center">A certified public accountant by profession. Software development is my passion.</h3>
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
